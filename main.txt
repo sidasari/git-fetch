@@ -1,1 +1,2 @@
 done
+bug fixed and working fine
